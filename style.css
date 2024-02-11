@@ -81,6 +81,20 @@ button:hover{
     padding-right: 1cm;
 }
 
+.conteiner2{
+    background-color: rgb(248, 228, 187);
+    border-radius: 5%;
+    padding-bottom: 2cm;
+    margin-bottom: 2cm;
+    padding-top: 1cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+
+.text2{
+    text-align: justify;
+    padding-left: 4cm;
+ } 
 
 
 footer{
