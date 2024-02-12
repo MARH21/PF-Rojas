@@ -53,12 +53,6 @@ button:hover{
     margin-bottom: 95px;
 }
 
-.aline{
-    width: 350px;
-    height: 400px;
-    margin-right: 90px;
-}
-
 .video{
     background-color: rgb(248, 228, 187);
     margin-top: 80px;
@@ -104,8 +98,8 @@ footer{
 }
 
 .red{
-    width: 60px;
-    margin-left: 100px;
+    margin-right: 40px;
+    margin-top: 29px;
 }
 
 
